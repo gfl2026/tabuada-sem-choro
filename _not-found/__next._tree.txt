@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/0vvbtt8kzqej7.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@400;600;700;800&display=swap","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"hvyR8wEaqDqVhTrgMoLfV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
